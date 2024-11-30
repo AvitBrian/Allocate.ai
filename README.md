@@ -1,6 +1,7 @@
 # Resource Allocation Reinforcement Learning
 
 ![tutorial gif](allocate.ai.gif)
+
 ## Overview
 This project implements a **Reinforcement Learning (RL)** solution for optimizing the allocation of resources across schools or institutions in a grid-based environment. The goal is to maximize resource distribution efficiency while minimizing unused resources. The agent optimizes the allocation by redistributing resources based on need, simulating a real-world scenario where resource amounts can be unpredictable.
 
